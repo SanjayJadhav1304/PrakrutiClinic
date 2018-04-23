@@ -1,0 +1,2 @@
+# PrakrutiClinic
+Ayurvedic Clinic Management
